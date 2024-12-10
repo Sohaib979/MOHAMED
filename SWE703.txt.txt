@@ -1,1 +1,7 @@
 I AM TEATCHING SWE307 CLASS
+
+1.Create a GitHub account
+2.Create a repository called <name> for example, RCLDemo2.
+3.Make a new file “I am teaching SWE7301” for example, named Piyush.txt
+4.Establish a connection with GitHub kingdom (RCLDemo2)
+5.Push the file Piyush.txt to the GitHub Kingdom. 
